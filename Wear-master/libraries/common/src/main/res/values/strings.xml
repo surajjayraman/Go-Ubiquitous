@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Common</string>
+
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+
+    <string name="sunday">SUN</string>
+    <string name="monday">MON</string>
+    <string name="tuesday">TUE</string>
+    <string name="wednesday">WED</string>
+    <string name="thursday">THU</string>
+    <string name="friday">FRI</string>
+    <string name="saturday">SAT</string>
+
+    <string name="january">JANUARY</string>
+    <string name="february">FEBRUARY</string>
+    <string name="march">MARCH</string>
+    <string name="april">APRIL</string>
+    <string name="may">MAY</string>
+    <string name="june">JUNE</string>
+    <string name="july">JULY</string>
+    <string name="august">AUGUST</string>
+    <string name="september">SEPTEMBER</string>
+    <string name="october">OCTOBER</string>
+    <string name="november">NOVEMBER</string>
+    <string name="december">DECEMBER</string>
+</resources>
